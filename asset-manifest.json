@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ekagramidha/portfolio/static/css/main.d17ad1c2.chunk.css",
+    "main.js": "/ekagramidha/portfolio/static/js/main.59ec8441.chunk.js",
+    "main.js.map": "/ekagramidha/portfolio/static/js/main.59ec8441.chunk.js.map",
+    "runtime-main.js": "/ekagramidha/portfolio/static/js/runtime-main.d5042c03.js",
+    "runtime-main.js.map": "/ekagramidha/portfolio/static/js/runtime-main.d5042c03.js.map",
+    "static/css/2.5aa027c0.chunk.css": "/ekagramidha/portfolio/static/css/2.5aa027c0.chunk.css",
+    "static/js/2.d86a608a.chunk.js": "/ekagramidha/portfolio/static/js/2.d86a608a.chunk.js",
+    "static/js/2.d86a608a.chunk.js.map": "/ekagramidha/portfolio/static/js/2.d86a608a.chunk.js.map",
+    "static/js/3.56a1dbb2.chunk.js": "/ekagramidha/portfolio/static/js/3.56a1dbb2.chunk.js",
+    "static/js/3.56a1dbb2.chunk.js.map": "/ekagramidha/portfolio/static/js/3.56a1dbb2.chunk.js.map",
+    "index.html": "/ekagramidha/portfolio/index.html",
+    "static/css/2.5aa027c0.chunk.css.map": "/ekagramidha/portfolio/static/css/2.5aa027c0.chunk.css.map",
+    "static/css/main.d17ad1c2.chunk.css.map": "/ekagramidha/portfolio/static/css/main.d17ad1c2.chunk.css.map",
+    "static/js/2.d86a608a.chunk.js.LICENSE.txt": "/ekagramidha/portfolio/static/js/2.d86a608a.chunk.js.LICENSE.txt",
+    "static/media/assessLogo.8f574997.webp": "/ekagramidha/portfolio/static/media/assessLogo.8f574997.webp",
+    "static/media/bootstrap.bd8830b9.webp": "/ekagramidha/portfolio/static/media/bootstrap.bd8830b9.webp",
+    "static/media/express.ec402bee.webp": "/ekagramidha/portfolio/static/media/express.ec402bee.webp",
+    "static/media/font-awesome.min.css": "/ekagramidha/portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/fullStack.d80eaea8.webp": "/ekagramidha/portfolio/static/media/fullStack.d80eaea8.webp",
+    "static/media/machineLearning.f8fb8542.webp": "/ekagramidha/portfolio/static/media/machineLearning.f8fb8542.webp",
+    "static/media/react.9a1e8669.webp": "/ekagramidha/portfolio/static/media/react.9a1e8669.webp",
+    "static/media/reactNative.d44f8531.webp": "/ekagramidha/portfolio/static/media/reactNative.d44f8531.webp",
+    "static/media/slyLogo.29453386.webp": "/ekagramidha/portfolio/static/media/slyLogo.29453386.webp",
+    "static/media/wkLogo.71fe0a73.webp": "/ekagramidha/portfolio/static/media/wkLogo.71fe0a73.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5042c03.js",
+    "static/css/2.5aa027c0.chunk.css",
+    "static/js/2.d86a608a.chunk.js",
+    "static/css/main.d17ad1c2.chunk.css",
+    "static/js/main.59ec8441.chunk.js"
+  ]
+}
